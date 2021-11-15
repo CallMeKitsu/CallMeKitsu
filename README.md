@@ -1,4 +1,4 @@
-- 🌌 @CallMeKitsu, 
+- 🌌 @CallMeKitsu
 - 💤 15 ans, 🇫🇷 🇧🇪
 - 🌐 Node.js - Python
 - 💠 CallMeKitsu.#0284
